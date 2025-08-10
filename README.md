@@ -1,4 +1,5 @@
 #
+
 [![logo-square](http://img.jcabi.com/logo-square.png)](http://img.jcabi.com/logo-square.png)
 
 [![EO principles respected here](https://www.elegantobjects.org/badge.svg)](https://www.elegantobjects.org)
@@ -51,6 +52,6 @@ the `master` branch, if they look correct.
 
 Please run Maven build before submitting a pull request:
 
-```
-$ mvn clean install -Pqulice
+```bash
+mvn clean install -Pqulice
 ```
